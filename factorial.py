@@ -1,3 +1,4 @@
+#RECURSION USING WHILE LOOP
 num= int(input("Enter a number: "))
 fact = 1
 count = 1
